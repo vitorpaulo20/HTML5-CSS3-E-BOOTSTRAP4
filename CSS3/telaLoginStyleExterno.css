@@ -1,20 +1,42 @@
 	BODY{
 
-		background-image:url(C:/Users/kamil/Desktop/HTML/HTML5-CSS3-E-BOOTSTRAP4/ASSETS/backgroundDafonte01.jpeg);
+		background-image:url(C:/Users/DAFONTE/Desktop/HTMLECSS3TELAS/HTML5-CSS3-E-BOOTSTRAP4/ASSETS/backgroundDafonte01.jpeg);
 		background-repeat:repeat;
-
+		color: black;
+		text-align:center ;		
 	}
+
+	.box{
+            width: 330px;
+            height: 200px;
+            border: 5px solid black;
+            background-color: #1C77EB;
+            position: absolute;
+            TOP: 180PX;
+            LEFT: 510PX;
+            z-index: -1;
+        }
 
 	H3{
 
 		COLOR: BLACK;
-		background-color: #FF0000;
+		position: absolute;
+		TOP: -15PX;
+		left: 510PX;
+
 	} 	
 
 	LABEL{
+
 			COLOR: BLACK;
+			
 		}
 
-		FORMS{
+
+	INPUT{
+			width: 200px;
+		}
+
+	FORM{
 			COLOR: WHITE;
 		}
