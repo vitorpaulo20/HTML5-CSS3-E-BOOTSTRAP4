@@ -1,0 +1,29 @@
+BODY{
+
+	background-color: #E8E8E8;
+	color: #2d49a6;
+}
+
+
+/*LINK NÃO VISITADO*/
+a:link{
+
+text-decoration: none;
+color: #334d5c;
+
+}
+
+/*LINK VISITADO*/
+a:visited{
+color: red;
+}
+
+/*AO PASSAR O MOUSE EM CIMA*/
+a:HOVER{
+color: black;
+}
+/*link quando for selecionado*/
+a:active{
+
+	color: yellow;
+}

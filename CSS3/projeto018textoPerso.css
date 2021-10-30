@@ -1,13 +1,14 @@
 body{
-	background-color: blueviolet;
+	background-color: red;
 	color: black;
-	background: hidden;
+	
 
 }
 
 h3{
-
+	color:#38454d;
 	font-style: italic;
+	font-size:30px;
 	position: absolute;
 	left: 240px;
 	top: 240px;
