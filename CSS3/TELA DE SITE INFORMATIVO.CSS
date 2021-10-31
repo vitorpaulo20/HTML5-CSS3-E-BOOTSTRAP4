@@ -1,0 +1,33 @@
+BODY{
+	background-image:url(C:/Users/kamil/Desktop/HTML/HTML5-CSS3-E-BOOTSTRAP4/ASSETS/backgroundDafonte01.jpeg);
+		background-repeat:repeat;
+		color: black;
+		text-align:center ;		
+}
+
+IMG{
+position: absolute;
+left: 0PX;
+WIDTH: 1280PX;
+HEIGHT: 120PX;
+border: 2PX solid black;
+z-index: -1;
+}
+
+
+
+SELECT{
+width: 300px;
+height: 40px;
+text-decoration: none;
+position: relative;
+left: -210px;
+top: 125PX;
+margin: 5px;
+}
+
+SELECT:hover{
+
+color: green;
+
+}

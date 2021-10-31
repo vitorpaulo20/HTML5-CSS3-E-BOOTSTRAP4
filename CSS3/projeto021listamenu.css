@@ -1,0 +1,36 @@
+body{
+
+background-image: url(https://casadeimagem.com/wp-content/uploads/2015/09/Img_Site_Lista.png);
+background-position: center;
+background-size: 1366px 1400px;
+
+}
+
+ul{
+
+	list-style: NONE;
+	background-color: hotpink;
+}
+
+UL LI{
+
+	display: inline;
+	margin: 5PX;
+}
+
+
+
+UL LI A:LINK {
+
+	text-decoration: NONE;
+	color: green;
+	background-color: yellow;
+	
+
+}
+
+UL LI A:HOVER{
+
+color: white;
+
+}

@@ -1,0 +1,27 @@
+body{
+
+background-image: url(https://casadeimagem.com/wp-content/uploads/2015/09/Img_Site_Lista.png);
+background-position: center;
+background-size: 1366px 1400px;
+
+}
+
+ul{
+	background-color: #FF0000;
+	
+	padding: 20PX;
+	list-style-type: square;
+}
+
+a:visited{
+color: black;
+}
+
+a:link{
+	color: blueviolet;
+}
+
+a:hover{
+color: yellow;
+
+}
