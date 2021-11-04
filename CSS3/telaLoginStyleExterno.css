@@ -11,20 +11,31 @@
 	.box{
             width: 330px;
             height: 200px;
-            border: 5px solid black;
+            border: 2px solid black;
             background-color: #1C77EB;
             position: absolute;
             TOP: 180PX;
             LEFT: 510PX;
+            border-radius: 20%;
             z-index: -1;
+
+
         }
 
 	H3{
-
+		background-color: darkblue;
+		border: 2px solid black;
+		border-radius: 10%;
+		margin: 10px,10px;
+		width: 100%;
+		height: 10%;
+		padding-top: 15px;
+		font-size: 22px;
+		font: italic;
 		COLOR: BLACK;
 		position: absolute;
 		TOP: -15PX;
-		left: 510PX;
+		left: 10PX;
 
 	} 	
 
@@ -48,7 +59,7 @@ left: 2PX;
 }
 
 BUTTON{
-
+	background-color: lightblue;
 	position: relative;
 	top: 110PX;
 }
